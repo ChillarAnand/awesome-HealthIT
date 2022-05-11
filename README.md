@@ -1,6 +1,5 @@
 ## Introduction
 
-
 Curated list of open source HealthIT software, specifications and resources.
 
 
@@ -17,13 +16,15 @@ Curated list of open source HealthIT software, specifications and resources.
 - [Bahmni](https://github.com/bahmni) - Open Source Hospital Management System & EMR built on top of OpenMRS, OpenELIS and Odoo
 - [Frappe Health](https://github.com/frappe/healthcare) - An open source HIS for all healthcare orgainsations.
 - [GNU Health](https://www.gnuhealth.org) - Libre digital health ecosystem, where Social Medicine meets state-of-the-art health informatics.
-- [LibreHealth EHR](https://librehealth.io/projects/lh-ehr/) - Modern, easy-to-use experience EHR.
-- [HospitalRun](https://hospitalrun.io) - An offline-first electronic health record (EHR) and hospital information system (HIS) web application.
+- [Libre Health EHR](https://librehealth.io/projects/lh-ehr/) - Modern, easy-to-use experience EHR.
+- [HospitalRun](https://hospitalrun.io) - An offline-first EHR & HIS web application.
 - [OpenEMR](https://www.open-emr.org) - Electronic Health Records and Medical Practice Management application.
+- [Peak Response](https://github.com/peakresponse) - Tools for real-time patient documentation.
 
 
 ### DICOM/PACS
 
+- [Dicoogle](https://dicoogle.com/) - Dicoogle is an open source Picture Archiving and Communications System (PACS) archive
 
 
 ### Tools
