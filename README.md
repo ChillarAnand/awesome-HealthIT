@@ -25,6 +25,9 @@ Curated list of open source HealthIT software, specifications and resources.
 ### DICOM/PACS
 
 - [Dicoogle](https://dicoogle.com/) - Dicoogle is an open source Picture Archiving and Communications System (PACS) archive
+- [HighDICOM](https://github.com/herrmannlab/highdicom) - High-level DICOM abstractions for the Python programming language
+- [PyDICOM](https://github.com/pydicom/pynetdicom) - Read, modify and write DICOM files with python code
+- [PyNetDICOM](https://github.com/pydicom/pynetdicom) - A Python implementation of the DICOM networking protocol
 
 
 ### Tools
